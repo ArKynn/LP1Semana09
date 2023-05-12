@@ -2,5 +2,5 @@
 
 public interface IMammal
 {
-    public readonly int NumberOffNipples { get; }
+    public int NumberOffNipples { get; }
 }
